@@ -16,6 +16,8 @@ namespace Y9_DEC_TO_BIN_SKELETON
             int myStringAsInt = Convert.ToInt32(myString); //watch me cast from string to int
 
             //MAIN CHALLENGE: WRITE A PROGRAM TO CONVERT ANY INTEGER TO ITS EQUIVALENT BINARY NUMBER
+            
+            
             //WRITE A CALL TO YOUR NUMBER CONVERSION FUNCTION HERE
             
             
